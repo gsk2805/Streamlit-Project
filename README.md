@@ -1,6 +1,6 @@
-# Streamlit-project
+#YouTube Data Harvesting and Warehousing using SQL and Streamlit
 
-**YouTube Data Harvesting and Warehousing using SQL and Streamlit**
+
 
 
 **1.	Set up a Streamlit app:** Streamlit is a great choice for building data visualization and analysis tools quickly and easily. You can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
